@@ -1,4 +1,4 @@
-TEMPERATURE_DATA = [
+ TEMPERATURE_DATA = [
   [1, 88, 59],
   [2, 79, 63],
   [3, 77, 55],
